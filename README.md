@@ -1,4 +1,4 @@
-# E.O-ACE Sales-performance Analysis
+# E.O-ACE Enterprises Sales-Performance Analysis
 This project focused on exploring the company’s sales performance, product profitability, regional results, and salesperson appraisal. By comparing key categories such as revenue,  salesperson contributions, regions and shipping details, this analysis uncovers valuable insights to aid inform important decisions.
 
 𝗗𝗔𝗧𝗔 𝗖𝗟𝗘𝗔𝗡𝗜𝗡𝗚
